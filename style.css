@@ -1,0 +1,633 @@
+.main-container{
+    margin: 0%;
+}
+.container-features{
+display: flex;
+padding-top: 20px;
+}
+.dit{
+    display: flex;
+    gap: 70px;
+}
+.login button{
+    width: 110%;
+    height: 50%;
+    background-color: palevioletred;
+    
+}
+.login{
+    gap: 50px;
+    padding-left: 100px;
+}
+.improvecharge{
+display: flex;
+gap: 200px;
+padding-left: 50px;
+}
+.improve{
+    font-size: 40px;
+}
+#click{
+    color: red;
+    font-family:fantasy;
+}
+.technical{
+   font-size: 18px;
+   padding-top: 60px;
+}
+.stores{
+    display: flex;
+    width: 40%;
+    height: 10%;
+}
+.fast-uploding{
+    width: 20%;
+    height: 20%;
+    rotate: -10deg;
+}
+.product{
+    font-size: 8px;
+    text-align: center;
+}
+#software{
+    color: blue;
+}
+.apps{
+   gap: 3000px;
+}
+#trello{
+    width: 80px;
+}
+#dropbox{
+    width: 130px;
+}
+#slack{
+    width: 100px;
+}
+#google{
+    width: 90px;
+}
+#microsoft{
+    width: 70px;
+}
+.workwith{
+    font-size: 10px;
+    text-align: center;
+}
+.experiences{
+    font-size: 10px;
+    display: flex;
+    gap: 100px;
+    padding-right: 600px;
+    background-color: rgb(231, 231, 243);
+
+}
+.numbers{
+    padding: 100px;
+    gap: 100px;
+}
+.interface{
+    font-size: 15px;
+    padding-left: 100px;
+}
+.secure{
+    font-size: 15px;
+}
+.support{
+    font-size: 15px;
+}
+.cash{
+    display: flex;
+    gap: 30px;
+}
+.group{
+    display: flex;
+    gap: 30px;
+}
+#nums{
+    color: red;
+}
+.p-num{
+    display: flex;
+    gap: 70px;
+}
+
+.price-nums{
+    padding-top: 30px;
+}
+.customer{
+    font-size: 12px;
+    text-align: center;
+}
+#globally{
+    color: red;
+}
+.mobileapp{
+    display: flex;
+}
+.appinterface{
+    display: flex;
+    gap: 60px;
+}
+.mobileinterface{
+    background-color: rgb(227, 248, 241);
+    width: 50%;
+}
+.settings{
+    width: 50%;
+    background-color: rgb(227, 248, 241);
+}
+.social{
+    font-size: 12px;
+    width: 50%;
+    background-color: rgb(227, 248, 241);   
+}
+.clasic{
+    padding-left: 180px;
+}
+#submitbutton{
+    
+    height: 10%;
+    background-color: blue;
+}
+.services{
+    display: flex;
+    gap: 30px;
+    background-color: gray;
+    color: white;
+}
+.copyright{
+    display: flex;
+    gap: 30px;
+    background-color: black;
+color: white;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+.icons{
+    display: flex;
+    gap: 10px;
+}
+.wonder{
+    display: flex;
+    gap: 100px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.businessman{
+    display: flex;
+    gap: 30px;
+}
+.zohir{
+    background-color: rgb(247, 238, 240);
+padding-left: 10px;
+}
+.edwin{
+    padding-left: 300px;
+}
+.jecson{
+    background-color: rgb(247, 238, 240);
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#hash{
+    padding-left: 300px;
+    color: rgb(157, 218, 35);
+}
+ @media(max-width:700px){
+    .main-container{
+        width: 100%;
+        margin: 00px;
+        background-color: rgb(245, 229, 232);
+        
+    }
+    .container-features{
+    display: flex;
+    padding-top: 2px;
+    }
+    .dit{
+        display: flex;
+        gap: 10px;
+        font-size: 8px;
+    }
+    .login button{
+        font-size: 10px;
+        width: 100%;
+        height: 50%;
+        background-color: palevioletred;
+        
+    }
+    .login{
+        gap: 30px;
+        padding-left: 80px;
+    }
+    .improvecharge{
+    display: flex;
+    font-size: 1px;
+    gap: 4px;
+    padding-left: 10px;
+    }
+    .improve{
+        font-size: 15px;
+    }
+    #click{
+        color: red;
+        font-family:fantasy;
+    }
+    .technical{
+       font-size: 8px;
+       padding-top: 10px;
+    }
+    .stores{
+        display: flex;
+        width: 10%;
+        height: 10%;
+    }
+    .fast-uploding{
+        width: 5%;
+        height: 4%;
+        rotate: -8deg;
+        padding-top: 100px;
+        padding-right: 90px;
+    }
+    .product{
+        font-size: 7px;
+        text-align: center;
+    }
+    #software{
+        color: blue;
+    }
+    .apps{
+       gap: 300px;
+    }
+    #trello{
+        width: 40px;
+    }
+    #dropbox{
+        width: 18%;
+        gap: 10px;
+    }
+    #slack{
+        width: 60px;
+    }
+    #google{
+        width: 40px;
+    }
+    #microsoft{
+        width: 50px;
+    }
+    .workwith{
+        font-size: 8px;
+        text-align: center;
+    }
+    .experiences{
+        font-size: 2px;
+        display: flex;
+        gap: 6px;
+        padding-right: 80px;
+        background-color: rgb(231, 231, 243);
+    
+    }
+    .numbers{
+        padding: 100px;
+        gap: 100px;
+    }
+    .interface{
+        font-size: 10px;
+        padding-left: 30px;
+    }
+    .secure{
+        font-size: 10px;
+    }
+    .support{
+        font-size: 10px;
+    }
+    .cash{
+        display: flex;
+        gap: 30px;
+    }
+    .group{
+        display: flex;
+        gap: 4px;
+    }
+    #nums{
+        color: red;
+    }
+    .p-num{
+        display: flex;
+        gap: 10px;
+    }
+    .numbers{
+        font-size: 8px;
+
+    }
+    .price-nums{
+        padding-top: 5px;
+    }
+    .customer{
+        font-size: 8px;
+        text-align: center;
+    }
+    #globally{
+        color: red;
+    }
+    .mobileapp{
+        display: flex;
+    }
+    .appinterface{
+        display: flex;
+        gap: 20px;
+    }
+    .mobileinterface{
+        background-color: rgb(227, 248, 241);
+        width: 50%;
+    }
+    .settings{
+        width: 18%;
+        height: 20xp;
+        font-size: 6px;
+        background-color: rgb(227, 248, 241);
+
+    }
+    #hom{
+        width: 60%;
+    }
+    .social{
+        font-size: 8px;
+        width: 30%;
+        background-color: rgb(227, 248, 241);   
+    }
+    .fa-arrow-left{
+        width: 4;
+        color: black;
+    }
+    .clasic{
+        padding-left: 70px;
+    }
+    #submitbutton{
+        font-size: 8px;
+        color: white;
+        height: 12%;
+        background-color: blue;
+    }
+    .services{
+        display: flex;
+        font-size: 4px;
+        gap: 10px;
+        width: 300px;
+        padding-left: 10px;
+        background-color: ;
+        color: rgb(19, 14, 14);
+    }
+    .copyright{
+        display: flex;
+        font-size: 7px;
+        width: 310px;
+        gap: 6px;
+        background-color: black;
+       color: rgb(243, 236, 236);
+       padding-bottom: 10px;
+       padding-top: 10px;
+    }
+    .icons{
+        display: flex;
+        gap: 10px;
+    }
+    .wonder{
+        display: flex;
+        gap: 10px;
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    .businessman{
+        display: flex;
+        gap: 17px;
+        padding: 0;
+        
+    }
+    .image{
+        width: 5%;
+    }
+    .zohir{
+    background-color: rgb(247, 238, 240);
+    border-radius: 20px;
+    width: 100px;
+    }
+    .edwin{
+        padding-left: 50px;
+    }
+    .jecson{
+        background-color: rgb(247, 238, 240);
+        padding-top: 4px;
+        border-radius: 20px;
+    }
+    #hash{
+        padding-left: 10px;
+        color: rgb(157, 218, 35);
+    }
+    .product{
+        font-size: 3px;
+    }
+
+     @media(min-width:701px){
+        .main-container{
+        margin: 0px;
+        width: 100%;
+        }
+        .container-features{
+        display: flex;
+        padding-top: 50px;
+        }
+        .dit{
+            display: flex;
+            gap: 80px;
+        }
+        .login button{
+            width: 110%;
+            height: 50%;
+            background-color: palevioletred;
+            
+        }
+        .login{
+            gap: 50px;
+            padding-left: 100px;
+        }
+        .improvecharge{
+        display: flex;
+        gap: 500px;
+        padding-left: 100px;
+        }
+        .improve{
+            font-size: 40px;
+        }
+        #click{
+            color: red;
+            font-family:fantasy;
+        }
+        .technical{
+           font-size: 18px;
+           padding-top: 60px;
+        }
+        .stores{
+            display: flex;
+            width: 40%;
+            height: 10%;
+        }
+        .fast-uploding{
+            width: 20%;
+            height: 20%;
+            rotate: -10deg;
+        }
+        .product{
+            font-size: 8px;
+            text-align: center;
+        }
+        #software{
+            color: blue;
+        }
+        .apps{
+           gap: 3000px;
+        }
+        #trello{
+            width: 80px;
+        }
+        #dropbox{
+            width: 130px;
+        }
+        #slack{
+            width: 100px;
+        }
+        #google{
+            width: 90px;
+        }
+        #microsoft{
+            width: 70px;
+        }
+        .workwith{
+            font-size: 10px;
+            text-align: center;
+        }
+        .experiences{
+            font-size: 10px;
+            display: flex;
+            gap: 100px;
+            padding-right: 600px;
+            background-color: rgb(231, 231, 243);
+        
+        }
+        .numbers{
+            padding: 100px;
+            gap: 100px;
+        }
+        .interface{
+            font-size: 15px;
+            padding-left: 100px;
+        }
+        .secure{
+            font-size: 15px;
+        }
+        .support{
+            font-size: 15px;
+        }
+        .cash{
+            display: flex;
+            gap: 30px;
+        }
+        .group{
+            display: flex;
+            gap: 30px;
+        }
+        #nums{
+            color: red;
+        }
+        .p-num{
+            display: flex;
+            gap: 70px;
+        }
+        
+        .price-nums{
+            padding-top: 30px;
+        }
+        .customer{
+            font-size: 12px;
+            text-align: center;
+        }
+        #globally{
+            color: red;
+        }
+        .mobileapp{
+            display: flex;
+        }
+        .appinterface{
+            display: flex;
+            gap: 60px;
+        }
+        .mobileinterface{
+            background-color: rgb(227, 248, 241);
+            width: 50%;
+        }
+        .settings{
+            width: 50%;
+            background-color: rgb(227, 248, 241);
+        }
+        .social{
+            font-size: 12px;
+            width: 50%;
+            background-color: rgb(227, 248, 241);   
+        }
+        .clasic{
+            padding-left: 180px;
+
+        }
+        #submitbutton{
+            
+            height: 10%;
+            background-color: blue;
+        }
+        .services{
+            display: flex;
+            gap: 50px;
+            background-color: gray;
+            color: white;
+        }
+        .copyright{
+            display: flex;
+            gap: 70px;
+            background-color: black;
+        color: white;
+        padding-bottom: 10px;
+        padding-top: 40px;
+        }
+        .icons{
+            display: flex;
+            gap: 40px;
+            padding-left: 20px;
+        }
+        .wonder{
+            display: flex;
+            gap: 300px;
+            padding-bottom: 50px;
+            padding-top: 50px;
+        }
+        .businessman{
+            display: flex;
+            gap: 300px;
+            
+        }
+        .zohir{
+            background-color: rgb(247, 238, 240);
+        padding-left: 10px;
+        }
+        .edwin{
+            padding-left: 300px;
+        }
+        .jecson{
+            background-color: rgb(247, 238, 240);
+            padding-left: 20px;
+            padding-top: 20px;
+        }
+        #hash{
+            padding-left: 0px;
+            width: 100%;
+            color: rgb(157, 218, 35);
+        }
